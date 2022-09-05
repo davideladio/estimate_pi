@@ -2,6 +2,7 @@
 # El area del circulo (de ahi sacamos pi) y el area del cuadrado serán aproximados por los puntos x/y dentro y fuera del circulo.
 
 #definimos la funcion estimar pi con un argumento n que indicará el numero de puntos a dibujar.
+# github working
 
 import random;
 
